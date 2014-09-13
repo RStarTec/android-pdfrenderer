@@ -1,0 +1,98 @@
+3a00>  <6edd
+3a01>  <6ee3
+3a02>  <6ee7
+3a09>  <6ef3
+3a11>  <6f00
+3a28>  <6f21
+3a2d>  <6f2e
+3a2e>  <6f30
+3a31>  <6f37
+3a37>  <6f40
+3a3f>  <6f4c
+3a4a>  <6f5d
+3a4e>  <6f63
+3a4f>  <6f65
+3a56>  <6f71
+3a57>  <6f73
+3a5a>  <6f79
+3a5b>  <6f7b
+3a61>  <6f85
+3a77>  <6fa8
+3a7e>  <6fb2
+3aaf>  <6ffb
+3ab0>  <6ffd
+3ab9>  <700a
+3abd>  <7010
+3ac3>  <7019
+3ac4>  <701c
+3ac5>  <701e
+3ad2>  <7031
+3ae9>  <7050
+3afc>  <706e
+3a03 3a04 6eea
+3a05 3a06 6eed
+3a07 3a08 6ef0
+3a0a 3a0b 6ef5
+3a0c 3a10 6efa
+3a12 3a14 6f03
+3a15 3a16 6f07
+3a17 3a1b 6f0a
+3a1c 3a1e 6f10
+3a1f 3a22 6f16
+3a23 3a27 6f1b
+3a29 3a2c 6f25
+3a2f 3a30 6f34
+3a32 3a36 6f39
+3a38 3a3b 6f42
+3a3c 3a3e 6f48
+3a40 3a42 6f4e
+3a43 3a44 6f52
+3a45 3a47 6f55
+3a48 3a49 6f5a
+3a4b 3a4d 6f5f
+3a50 3a55 6f67
+3a58 3a59 6f75
+3a5c 3a5d 6f7d
+3a5e 3a60 6f81
+3a62 3a63 6f8a
+3a64 3a6b 6f8f
+3a6c 3a6f 6f98
+3a70 3a72 6f9d
+3a73 3a74 6fa2
+3a75 3a76 6fa5
+3a78 3a7b 6faa
+3a7c 3a7d 6faf
+3a7f 3a80 6fb4
+3a81 3a82 6fb7
+3a83 3a88 6fba
+3a89 3a8d 6fc4
+3a8e 3a94 6fca
+3a95 3a96 6fd3
+3a97 3a98 6fd6
+3a99 3a9a 6fd9
+3a9b 3a9c 6fdc
+3a9d 3a9e 6fe2
+3a9f 3aa4 6fe5
+3aa5 3aa6 6fec
+3aa7 3aae 6ff2
+3ab1 3ab6 6fff
+3ab7 3ab8 7007
+3aba 3abc 700c
+3abe 3ac0 7012
+3ac1 3ac2 7016
+3ac6 3ac7 7021
+3ac8 3aca 7024
+3acb 3ad1 7029
+3ad3 3ad4 7033
+3ad5 3ad7 7036
+3ad8 3adb 703a
+3adc 3adf 703f
+3ae0 3ae6 7045
+3ae7 3ae8 704d
+3aea 3aec 7052
+3aed 3aee 7056
+3aef 3af2 7059
+3af3 3af6 705f
+3af7 3af8 7065
+3af9 3afb 7068
+3afd 3aff 7071

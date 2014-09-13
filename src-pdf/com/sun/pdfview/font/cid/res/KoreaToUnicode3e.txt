@@ -1,0 +1,45 @@
+3e00 cc97
+3e0d ccaa
+3e20 ccc6
+3e21 ccc8
+3e66 cd1a
+3e67 cd1c
+3eaf cd6e
+3eb0 cd70
+3edd cda6
+3ede cda8
+3eff cdcd
+3e01 3e02 cc9a
+3e03 3e05 cc9d
+3e06 3e0c cca1
+3e0e 3e13 ccae
+3e14 3e15 ccb6
+3e16 3e18 ccb9
+3e19 3e1f ccbd
+3e22 3e27 ccca
+3e28 3e2a ccd1
+3e2b 3e39 ccd5
+3e3a 3e40 cce5
+3e41 3e43 cced
+3e44 3e53 ccf1
+3e54 3e59 cd02
+3e5a 3e5b cd0a
+3e5c 3e5e cd0d
+3e5f 3e65 cd11
+3e68 3e6d cd1e
+3e6e 3e70 cd25
+3e71 3e73 cd29
+3e74 3e7f cd2d
+3e80 3ea1 cd3a
+3ea2 3ea4 cd5d
+3ea5 3ea7 cd61
+3ea8 3eae cd65
+3eb1 3eb6 cd72
+3eb7 3ec5 cd79
+3ec6 3ed0 cd89
+3ed1 3ed2 cd96
+3ed3 3ed5 cd99
+3ed6 3edc cd9d
+3edf 3ee4 cdaa
+3ee5 3ef7 cdb1
+3ef8 3efe cdc5

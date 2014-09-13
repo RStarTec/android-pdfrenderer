@@ -1,0 +1,82 @@
+3b00>  <7074
+3b01>  <7077
+3b05>  <707d
+3b13>  <7093
+3b25>  <70b0
+3b26>  <70b2
+3b2a>  <70ba
+3b31>  <70c9
+3b3e>  <70da
+3b46>  <70e5
+3b47>  <70ea
+3b48>  <70ee
+3b4f>  <70f8
+3b65>  <7114
+3b66>  <7117
+3b8e>  <714b
+3b8f>  <714d
+3b9c>  <715d
+3ba0>  <7163
+3ba1>  <7165
+3ba4>  <716d
+3bac>  <7179
+3bc0>  <7193
+3bd6>  <71b2
+3bd7>  <71b4
+3be1>  <71c2
+3bee>  <71d3
+3bff>  <71ef
+3b02 3b04 7079
+3b06 3b09 7081
+3b0a 3b0c 7086
+3b0d 3b0f 708b
+3b10 3b12 708f
+3b14 3b15 7097
+3b16 3b17 709a
+3b18 3b24 709e
+3b27 3b29 70b4
+3b2b 3b2c 70be
+3b2d 3b30 70c4
+3b32 3b35 70cb
+3b36 3b3d 70d0
+3b3f 3b41 70dc
+3b42 3b45 70e0
+3b49 3b4c 70f0
+3b4d 3b4e 70f5
+3b50 3b52 70fa
+3b53 3b5d 70fe
+3b5e 3b62 710b
+3b63 3b64 7111
+3b67 3b6c 711b
+3b6d 3b70 7122
+3b71 3b78 7127
+3b79 3b7c 7132
+3b7d 3b8a 7137
+3b8b 3b8d 7146
+3b90 3b92 714f
+3b93 3b9b 7153
+3b9d 3b9f 715f
+3ba2 3ba3 716a
+3ba5 3ba7 716f
+3ba8 3bab 7174
+3bad 3bae 717b
+3baf 3bb4 717e
+3bb5 3bb9 7185
+3bba 3bbd 718b
+3bbe 3bbf 7190
+3bc1 3bc2 7195
+3bc3 3bc7 719a
+3bc8 3bce 71a1
+3bcf 3bd1 71a9
+3bd2 3bd5 71ad
+3bd8 3bda 71b6
+3bdb 3bde 71ba
+3bdf 3be0 71bf
+3be2 3be5 71c4
+3be6 3bea 71c9
+3beb 3bed 71cf
+3bef 3bf1 71d6
+3bf2 3bf3 71da
+3bf4 3bf5 71dd
+3bf6 3bf9 71e1
+3bfa 3bfe 71e8

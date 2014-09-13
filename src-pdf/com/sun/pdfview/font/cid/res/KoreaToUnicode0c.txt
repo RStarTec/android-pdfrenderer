@@ -1,0 +1,191 @@
+0c02 d081
+0c05 d0a8
+0c06 d0ac
+0c09 d0b7
+0c0a d0b9
+0c0d d0c4
+0c17 d0e0
+0c18 d0e4
+0c1e d0f8
+0c1f d10d
+0c22 d134
+0c23 d138
+0c24 d13a
+0c2c d150
+0c2d d154
+0c30 d15f
+0c31 d161
+0c32 d168
+0c33 d16c
+0c34 d17c
+0c35 d184
+0c36 d188
+0c39 d1a4
+0c3a d1a8
+0c3d d1b3
+0c3e d1b5
+0c3f d1ba
+0c40 d1bc
+0c41 d1c0
+0c42 d1d8
+0c43 d1f4
+0c44 d1f8
+0c45 d207
+0c46 d209
+0c47 d210
+0c4a d230
+0c4b d234
+0c4e d23f
+0c4f d241
+0c50 d248
+0c51 d25c
+0c52 d264
+0c55 d284
+0c56 d288
+0c59 d295
+0c5a d29c
+0c5b d2a0
+0c5c d2a4
+0c5d d2ac
+0c5e d2b1
+0c61 d2bc
+0c64 d2c2
+0c67 d2cb
+0c68 d2d4
+0c69 d2d8
+0c6a d2dc
+0c6f d2f4
+0c70 d2f8
+0c73 d303
+0c74 d305
+0c78 d310
+0c79 d314
+0c7a d316
+0c80 d325
+0c83 d32c
+0c84 d330
+0c8e d380
+0c8f d384
+0c97 d39c
+0c98 d3a0
+0c9b d3ab
+0c9c d3ad
+0c9d d3b4
+0c9e d3b8
+0c9f d3bc
+0ca4 d3d0
+0ca5 d3d8
+0ca6 d3e1
+0ca7 d3e3
+0caa d3f0
+0cab d3f4
+0cae d3ff
+0caf d401
+0cb0 d408
+0cb1 d41d
+0cb2 d440
+0cb3 d444
+0cb4 d45c
+0cb5 d460
+0cb6 d464
+0cb7 d46d
+0cb8 d46f
+0cbb d47c
+0cbe d482
+0cc1 d48b
+0cc2 d48d
+0cc3 d494
+0cc4 d4a9
+0cc5 d4cc
+0cc6 d4d0
+0cc7 d4d4
+0cc8 d4dc
+0cc9 d4df
+0cca d4e8
+0ccb d4ec
+0ccc d4f0
+0ccd d4f8
+0cce d4fb
+0ccf d4fd
+0cd0 d504
+0cd1 d508
+0cd2 d50c
+0cd5 d517
+0cd8 d540
+0cd9 d544
+0cdc d54f
+0cdd d551
+0ce0 d55c
+0ce1 d560
+0ce2 d565
+0ce5 d56b
+0ce6 d56d
+0ce9 d578
+0cea d57c
+0cf0 d590
+0cf1 d5a5
+0cf4 d5cc
+0cf5 d5d0
+0cf6 d5d2
+0cf9 d5db
+0cfa d5dd
+0cfd d5e8
+0cfe d5ec
+0cff d5f4
+0c00 0c01 d07c
+0c03 0c04 d0a4
+0c07 0c08 d0b4
+0c0b 0c0c d0c0
+0c0e 0c0f d0c8
+0c10 0c11 d0d0
+0c12 0c14 d0d3
+0c15 0c16 d0dc
+0c19 0c1a d0ec
+0c1b 0c1d d0ef
+0c20 0c21 d130
+0c25 0c26 d140
+0c27 0c29 d143
+0c2a 0c2b d14c
+0c2e 0c2f d15c
+0c37 0c38 d1a0
+0c3b 0c3c d1b0
+0c48 0c49 d22c
+0c4c 0c4d d23c
+0c53 0c54 d280
+0c57 0c58 d290
+0c5f 0c60 d2b8
+0c62 0c63 d2bf
+0c65 0c66 d2c8
+0c6b 0c6c d2e4
+0c6d 0c6e d2f0
+0c71 0c72 d300
+0c75 0c77 d30c
+0c7b 0c7c d31c
+0c7d 0c7f d31f
+0c81 0c82 d328
+0c85 0c86 d338
+0c87 0c89 d33b
+0c8a 0c8b d344
+0c8c 0c8d d37c
+0c90 0c91 d38c
+0c92 0c94 d38f
+0c95 0c96 d398
+0c99 0c9a d3a8
+0ca0 0ca1 d3c4
+0ca2 0ca3 d3c8
+0ca8 0ca9 d3ec
+0cac 0cad d3fc
+0cb9 0cba d478
+0cbc 0cbd d47f
+0cbf 0cc0 d488
+0cd3 0cd4 d514
+0cd6 0cd7 d53c
+0cda 0cdb d54c
+0cde 0cdf d558
+0ce3 0ce4 d568
+0ce7 0ce8 d574
+0ceb 0cec d584
+0ced 0cef d587
+0cf2 0cf3 d5c8
+0cf7 0cf8 d5d8
+0cfb 0cfc d5e4

@@ -1,0 +1,33 @@
+3c16 ca5e
+3c79 cace
+3c7a cad0
+3c7b cad2
+3c00 3c09 ca42
+3c0a 3c0b ca4e
+3c0c 3c0e ca51
+3c0f 3c15 ca55
+3c17 3c1c ca62
+3c1d 3c30 ca69
+3c31 3c36 ca7e
+3c37 3c49 ca85
+3c4a 3c6c ca99
+3c6d 3c6e cabe
+3c6f 3c71 cac1
+3c72 3c78 cac5
+3c7c 3c7f cad4
+3c80 3c85 cada
+3c86 3c90 cae1
+3c91 3c97 caed
+3c98 3caa caf5
+3cab 3cb1 cb09
+3cb2 3cb4 cb11
+3cb5 3cb7 cb15
+3cb8 3cbe cb19
+3cbf 3cdd cb22
+3cde 3ce3 cb42
+3ce4 3ce5 cb4a
+3ce6 3ce8 cb4d
+3ce9 3cef cb51
+3cf0 3cf2 cb5a
+3cf3 3cf8 cb5e
+3cf9 3cff cb65

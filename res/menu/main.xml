@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item
+        android:id="@+id/menu_open"
+        android:showAsAction="ifRoom|withText"
+        android:title="@string/menu_open"
+        android:icon="@drawable/ic_action_expand"
+    />
+	<item
+		android:id="@+id/menu_emptyInternal"
+        android:showAsAction="ifRoom|withText"
+        android:title="@string/menu_clearInternal"
+        android:icon="@drawable/ic_action_discard"
+    />
+    
+</menu>

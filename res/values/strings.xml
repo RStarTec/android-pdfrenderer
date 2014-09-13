@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Pdf renderer</string>
+    <string name="menu_open">Open</string>
+    <string name="menu_clearInternal">Clear cache</string>
+
+    <string name="pdf_image">pdf image</string>
+    <string name="filename">File name:</string>
+    <string name="choose_from">Choose from:</string>
+    
+	
+	<!-- Buttons -->
+    <string name="button_OK">OK</string>
+    <string name="button_cancel">Cancel</string>
+    
+    
+</resources>

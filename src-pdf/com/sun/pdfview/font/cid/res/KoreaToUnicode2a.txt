@@ -1,0 +1,48 @@
+2a00 b35d
+2a05 b366
+2a06 b368
+2a07 b36a
+2a0a b36f
+2a17 b382
+2a53 b3cd
+2a54 b3cf
+2a58 b3d6
+2a59 b3d8
+2a5a b3da
+2a5b b3dc
+2a9e b42a
+2ace b462
+2acf b464
+2a01 2a04 b360
+2a08 2a09 b36c
+2a0b 2a0c b372
+2a0d 2a0f b375
+2a10 2a16 b379
+2a18 2a1d b386
+2a1e 2a20 b38d
+2a21 2a23 b391
+2a24 2a2e b395
+2a2f 2a34 b3a2
+2a35 2a37 b3a9
+2a38 2a4e b3ad
+2a4f 2a50 b3c6
+2a51 2a52 b3c9
+2a55 2a57 b3d1
+2a5c 2a5d b3de
+2a5e 2a60 b3e1
+2a61 2a63 b3e5
+2a64 2a76 b3e9
+2a77 2a89 b3fd
+2a8a 2a90 b411
+2a91 2a93 b419
+2a94 2a96 b41d
+2a97 2a9d b421
+2a9f 2aa6 b42c
+2aa7 2ac1 b435
+2ac2 2ac3 b452
+2ac4 2ac6 b455
+2ac7 2acd b459
+2ad0 2ad5 b466
+2ad6 2ae8 b46d
+2ae9 2aef b481
+2af0 2aff b489

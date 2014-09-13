@@ -1,0 +1,85 @@
+2e00>  <5a65
+2e3e>  <5ab4
+2e54>  <5ad3
+2e55>  <5ad5
+2e5c>  <5ae2
+2e61>  <5aea
+2e7a>  <5b0a
+2e84>  <5b18
+2e99>  <5b31
+2e9a>  <5b33
+2eb2>  <5b52
+2eb3>  <5b56
+2eb4>  <5b5e
+2ebc>  <5b72
+2ebd>  <5b74
+2ec0>  <5b79
+2ec3>  <5b7e
+2ec4>  <5b82
+2ec5>  <5b86
+2ec6>  <5b8a
+2ecc>  <5b94
+2ecd>  <5b96
+2ece>  <5b9f
+2ed8>  <5bb7
+2ede>  <5bc3
+2ee6>  <5bd1
+2ef0>  <5be0
+2ef1>  <5be3
+2ef2>  <5bea
+2ef3>  <5bed
+2ef4>  <5bef
+2ef9>  <5bf7
+2efc>  <5c00
+2eff>  <5c05
+2e01 2e02 5a68
+2e03 2e04 5a6b
+2e05 2e0a 5a6e
+2e0b 2e0c 5a78
+2e0d 2e10 5a7b
+2e11 2e22 5a80
+2e23 2e29 5a93
+2e2a 2e34 5a9c
+2e35 2e36 5aa8
+2e37 2e3d 5aab
+2e3f 2e40 5ab6
+2e41 2e44 5ab9
+2e45 2e46 5abf
+2e47 2e4c 5ac3
+2e4d 2e4e 5aca
+2e4f 2e53 5acd
+2e56 2e58 5ad9
+2e59 2e5b 5add
+2e5d 2e5e 5ae4
+2e5f 2e60 5ae7
+2e62 2e66 5aec
+2e67 2e69 5af2
+2e6a 2e6e 5af6
+2e6f 2e72 5afc
+2e73 2e79 5b01
+2e7b 2e83 5b0d
+2e85 2e8b 5b1a
+2e8c 2e93 5b22
+2e94 2e98 5b2b
+2e9b 2e9c 5b35
+2e9d 2ea3 5b39
+2ea4 2eae 5b41
+2eaf 2eb1 5b4d
+2eb5 2eb6 5b60
+2eb7 2eb8 5b67
+2eb9 2ebb 5b6d
+2ebe 2ebf 5b76
+2ec1 2ec2 5b7b
+2ec7 2ec8 5b8d
+2ec9 2ecb 5b90
+2ecf 2ed1 5ba7
+2ed2 2ed5 5bac
+2ed6 2ed7 5bb1
+2ed9 2edb 5bba
+2edc 2edd 5bc0
+2edf 2ee2 5bc8
+2ee3 2ee5 5bcd
+2ee7 2eef 5bd4
+2ef5 2ef8 5bf1
+2efa 2efb 5bfd
+2efd 2efe 5c02

@@ -1,0 +1,193 @@
+0b00 ca84
+0b01 ca98
+0b04 cac0
+0b05 cac4
+0b08 cacf
+0b09 cad1
+0b0a cad3
+0b0d cae0
+0b0e caec
+0b0f caf4
+0b10 cb08
+0b11 cb10
+0b12 cb14
+0b13 cb18
+0b16 cb41
+0b19 cb4c
+0b1a cb50
+0b1d cb5d
+0b1e cb64
+0b21 cb9c
+0b22 cbb8
+0b23 cbd4
+0b24 cbe4
+0b25 cbe7
+0b26 cbe9
+0b29 cc10
+0b2a cc14
+0b32 cc2c
+0b33 cc2e
+0b34 cc30
+0b3d cc48
+0b3e cc4c
+0b44 cc60
+0b45 cc64
+0b46 cc66
+0b47 cc68
+0b48 cc70
+0b49 cc75
+0b4c cc9c
+0b4d cca0
+0b55 ccb8
+0b56 ccbc
+0b59 ccc7
+0b5a ccc9
+0b5b ccd0
+0b5c ccd4
+0b5d cce4
+0b5e ccec
+0b5f ccf0
+0b60 cd01
+0b63 cd0c
+0b64 cd10
+0b67 cd1b
+0b68 cd1d
+0b69 cd24
+0b6a cd28
+0b6b cd2c
+0b6c cd39
+0b6d cd5c
+0b6e cd60
+0b6f cd64
+0b72 cd6f
+0b73 cd71
+0b74 cd78
+0b75 cd88
+0b78 cd98
+0b79 cd9c
+0b7c cda7
+0b7d cda9
+0b7e cdb0
+0b7f cdc4
+0b80 cdcc
+0b81 cdd0
+0b82 cde8
+0b83 cdec
+0b84 cdf0
+0b87 cdfb
+0b88 cdfd
+0b89 ce04
+0b8a ce08
+0b8b ce0c
+0b8c ce14
+0b8d ce19
+0b90 ce24
+0b91 ce28
+0b94 ce33
+0b95 ce35
+0b98 ce5c
+0b9e ce6b
+0b9f ce6d
+0ba2 ce78
+0ba3 ce7c
+0ba6 ce87
+0ba7 ce89
+0baa ce94
+0bab ce98
+0bb3 cec1
+0bb6 cee8
+0bc0 cf04
+0bc1 cf08
+0bc4 cf13
+0bc5 cf15
+0bc6 cf1c
+0bc7 cf20
+0bc8 cf24
+0bce cf38
+0bd1 cf58
+0bd2 cf5c
+0bd5 cf67
+0bd6 cf69
+0bd9 cf74
+0bda cf78
+0bdb cf80
+0bdc cf85
+0bdd cf8c
+0bde cfa1
+0bdf cfa8
+0be0 cfb0
+0be1 cfc4
+0be4 cfe4
+0be5 cfe8
+0be8 cff3
+0be9 cff5
+0bea cffc
+0beb d000
+0bec d004
+0bed d011
+0bee d018
+0bef d02d
+0bf2 d038
+0bf3 d03c
+0bf6 d047
+0bf7 d049
+0bf8 d050
+0bf9 d054
+0bfa d058
+0bfb d060
+0bfe d070
+0bff d074
+0b02 0b03 cabc
+0b06 0b07 cacc
+0b0b 0b0c cad8
+0b14 0b15 cb20
+0b17 0b18 cb48
+0b1b 0b1c cb58
+0b1f 0b20 cb78
+0b27 0b28 cc0c
+0b2b 0b2c cc1c
+0b2d 0b2e cc21
+0b2f 0b31 cc27
+0b35 0b36 cc38
+0b37 0b3a cc3b
+0b3b 0b3c cc44
+0b3f 0b40 cc54
+0b41 0b43 cc57
+0b4a 0b4b cc98
+0b4e 0b4f cca8
+0b50 0b52 ccab
+0b53 0b54 ccb4
+0b57 0b58 ccc4
+0b61 0b62 cd08
+0b65 0b66 cd18
+0b70 0b71 cd6c
+0b76 0b77 cd94
+0b7a 0b7b cda4
+0b85 0b86 cdf8
+0b8e 0b8f ce20
+0b92 0b93 ce30
+0b96 0b97 ce58
+0b99 0b9b ce5f
+0b9c 0b9d ce68
+0ba0 0ba1 ce74
+0ba4 0ba5 ce84
+0ba8 0ba9 ce90
+0bac 0bad cea0
+0bae 0bb0 cea3
+0bb1 0bb2 ceac
+0bb4 0bb5 cee4
+0bb7 0bb8 ceeb
+0bb9 0bba cef4
+0bbb 0bbd cef7
+0bbe 0bbf cf00
+0bc2 0bc3 cf10
+0bc9 0bca cf2c
+0bcb 0bcd cf2f
+0bcf 0bd0 cf54
+0bd3 0bd4 cf64
+0bd7 0bd8 cf70
+0be2 0be3 cfe0
+0be6 0be7 cff0
+0bf0 0bf1 d034
+0bf4 0bf5 d044
+0bfc 0bfd d06c

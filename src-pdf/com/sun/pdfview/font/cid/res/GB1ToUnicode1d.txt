@@ -1,0 +1,196 @@
+1d00>  <9169
+1d01>  <916f
+1d04>  <9172
+1d05>  <9174
+1d06>  <9179
+1d07>  <918c
+1d08>  <9185
+1d09>  <9190
+1d0a>  <918d
+1d0b>  <9191
+1d0e>  <91aa
+1d12>  <91b5
+1d13>  <91b4
+1d14>  <91ba
+1d15>  <8c55
+1d16>  <9e7e
+1d17>  <8db8
+1d18>  <8deb
+1d19>  <8e05
+1d1a>  <8e59
+1d1b>  <8e69
+1d1c>  <8db5
+1d1d>  <8dbf
+1d1e>  <8dbc
+1d1f>  <8dba
+1d20>  <8dc4
+1d23>  <8dda
+1d24>  <8dde
+1d27>  <8ddb
+1d28>  <8dc6
+1d29>  <8dec
+1d2c>  <8de3
+1d2d>  <8df9
+1d2e>  <8dfb
+1d2f>  <8de4
+1d30>  <8e09
+1d31>  <8dfd
+1d32>  <8e14
+1d33>  <8e1d
+1d34>  <8e1f
+1d35>  <8e2c
+1d36>  <8e2e
+1d37>  <8e23
+1d38>  <8e2f
+1d39>  <8e3a
+1d3a>  <8e40
+1d3b>  <8e39
+1d3c>  <8e35
+1d3d>  <8e3d
+1d3e>  <8e31
+1d3f>  <8e49
+1d44>  <8e4a
+1d45>  <8e70
+1d46>  <8e76
+1d47>  <8e7c
+1d48>  <8e6f
+1d49>  <8e74
+1d4a>  <8e85
+1d4b>  <8e8f
+1d4c>  <8e94
+1d4d>  <8e90
+1d4e>  <8e9c
+1d4f>  <8e9e
+1d50>  <8c78
+1d51>  <8c82
+1d52>  <8c8a
+1d53>  <8c85
+1d54>  <8c98
+1d55>  <8c94
+1d56>  <659b
+1d57>  <89d6
+1d58>  <89de
+1d59>  <89da
+1d5a>  <89dc
+1d5b>  <89e5
+1d5c>  <89eb
+1d5d>  <89ef
+1d5e>  <8a3e
+1d5f>  <8b26
+1d60>  <9753
+1d61>  <96e9
+1d62>  <96f3
+1d63>  <96ef
+1d64>  <9706
+1d65>  <9701
+1d66>  <9708
+1d67>  <970f
+1d68>  <970e
+1d69>  <972a
+1d6a>  <972d
+1d6b>  <9730
+1d6c>  <973e
+1d6d>  <9f80
+1d6e>  <9f83
+1d75>  <9f8c
+1d76>  <9efe
+1d77>  <9f0b
+1d78>  <9f0d
+1d79>  <96b9
+1d7c>  <96ce
+1d7d>  <96d2
+1d7e>  <77bf
+1d7f>  <96e0
+1d80>  <928e
+1d81>  <92ae
+1d82>  <92c8
+1d83>  <933e
+1d84>  <936a
+1d85>  <93ca
+1d86>  <938f
+1d87>  <943e
+1d88>  <946b
+1d89>  <9c7f
+1d8a>  <9c82
+1d8f>  <7a23
+1d90>  <9c8b
+1d91>  <9c8e
+1da4>  <9cab
+1dc6>  <9cdf
+1dc7>  <9ce2
+1dc8>  <977c
+1dc9>  <9785
+1dcc>  <9794
+1dcd>  <97af
+1dce>  <97ab
+1dcf>  <97a3
+1dd0>  <97b2
+1dd1>  <97b4
+1dd2>  <9ab1
+1dd3>  <9ab0
+1dd4>  <9ab7
+1dd5>  <9e58
+1dd6>  <9ab6
+1dd7>  <9aba
+1dd8>  <9abc
+1dd9>  <9ac1
+1dda>  <9ac0
+1ddb>  <9ac5
+1ddc>  <9ac2
+1ddf>  <9ad1
+1de0>  <9b45
+1de1>  <9b43
+1de2>  <9b47
+1de3>  <9b49
+1de4>  <9b48
+1de5>  <9b4d
+1de6>  <9b51
+1de7>  <98e8
+1de8>  <990d
+1de9>  <992e
+1dea>  <9955
+1deb>  <9954
+1dec>  <9adf
+1ded>  <9ae1
+1dee>  <9ae6
+1def>  <9aef
+1df0>  <9aeb
+1df1>  <9afb
+1df2>  <9aed
+1df3>  <9af9
+1df4>  <9b08
+1df5>  <9b0f
+1df6>  <9b13
+1df7>  <9b1f
+1df8>  <9b23
+1dfb>  <7e3b
+1dfc>  <9e82
+1dff>  <9e8b
+1d02 1d03 917d
+1d0c 1d0d 91a2
+1d0f 1d11 91ad
+1d21 1d22 8dd6
+1d25 1d26 8dce
+1d2a 1d2b 8df7
+1d40 1d41 8e41
+1d42 1d43 8e51
+1d6f 1d74 9f85
+1d7a 1d7b 96bc
+1d8b 1d8e 9c85
+1d92 1d94 9c90
+1d95 1d96 9c94
+1d97 1d98 9c9a
+1d99 1d9e 9c9e
+1d9f 1da3 9ca5
+1da5 1da6 9cad
+1da7 1dae 9cb0
+1daf 1db2 9cba
+1db3 1db6 9cc4
+1db7 1dbd 9cca
+1dbe 1dc0 9cd3
+1dc1 1dc3 9cd7
+1dc4 1dc5 9cdc
+1dca 1dcb 9791
+1ddd 1dde 9acb
+1df9 1dfa 9ebd
+1dfd 1dfe 9e87
