@@ -1,0 +1,112 @@
+This project is a rewiring and expansion of the pdf viewer library 
+for android.
+
+License:
+========
+LGPL-2.1 
+
+Forked from:
+============
+The primary source of this project comes from JBlough's 
+Android-Pdf-Viewer-Library 
+(https://github.com/jblough/Android-Pdf-Viewer-Library)
+
+The secondary source used to expand on this library is Katjas' fork
+of the sun pdfrenderer (https://github.com/katjas/PDFrenderer) which
+provides improved support for Alternate Colorspace, Function Type4 
+(Postscript) and CID font type 0. 
+
+
+Improvement made:
+=================
+In this project, the library has been patched primarily to handle 
+a subset of small-sized, black-and-white documents with some PS-type 
+drawings and some CJK languages. No investigation has been made on its 
+performance on color and image documents.
+
+The Function Type4 has been improved to handle postscript commands with
+one level of nesting (such as in the case of an IF statement). 
+
+The CID-to-Unicode maps for Japan1, Korea1, CNS1 and GB1 have been added
+to the CIDFontType0 support. 
+
+The DroidSansJapanese.ttf is added as a backup font set in cases where 
+the pdf document does not provide embedded true fonts for the CJK 
+languages. This font set is chosen instead of its improved descendent 
+(the DroidSansFallback.ttf) because of memory constraint. 
+
+The CMap Format12 has been added to the library to handle the cmap of
+DroidSansJapanese.ttf. 
+
+
+Other changes made:
+===================
+As the original library has many areas still incomplete, developers who 
+want to use this library may have to modify and debug the source along 
+their own project. Some rewiring has been done to make that convenient.
+
+The original pdfviewer library is relocated to the directory "src-pdf".
+All supporting library packages including bouncycastle have been 
+relocated to this directory.
+
+Two classes in the "src-pdf/pdf/main" directory provide the main access to 
+this library: 
+- The class Renderer.java is the wrapper class of the whole pdf renderer 
+  engine (not to be confused with the PDFRenderer.java inside the library).
+- The class SavelogPDF.java allows the logs of this library to be managed 
+  collectively with the developer's own project.
+
+Password locking of pdf document has been dropped in the Renderer class. 
+Please refer to the primary source to see how to re-enact it if desired.
+
+This pdf viewer library is known to hold up memory and easily causes OOM 
+errors on android, because the original sun library was not designed for 
+embedded systems. To handle this, hard-references are enforced instead of 
+soft-references when setting up the parameters (DEFAULTKEEPCACHES) in 
+Renderer.java. However, this means memory needs to be consciously released 
+once rendering is done.
+
+Example Application:
+====================
+
+An example application is found under com.android.example.pdfRenderer. Its
+source code is in the "src" directory and its resources in the "res" directory.
+In this sample application, the FileLoader.java class provides a template
+on how to call the renderer engine. 
+
+The example application accesses documents in the default Downloads directory
+and display the pages as rendered images in a ListView. Lazy loading is 
+applied. When a page, P, is called for by the ListView object, the cache is
+checked to see if a previously rendered image is available for page P.
+If not, the pages in the range P-r to P+r are all rendered and cached,
+where r is the number of neighboring pages that can be rendered in the same
+batch using the same renderer object. On older machines with less memory, 
+set r=0.(OOM errors may still occur if user flings the list).
+A cleanup call must be made after a renderer finishes its job.
+
+Every rendered page is cached as a bitmap file before display. In this 
+example application, caching is done by simply saving the bitmap in the 
+internal directory. A better managed cache (such as the LRU disk cache) 
+should be used for real applications.
+
+How to:
+=======
+To incorporate this library as part of a project under development in Eclipse:
+1. Copy only the “src-pdf” directory into project.
+2. In Project Properties, add “src-pdf” to the source of Java Build Path.
+3. If you want to handle all logs collectively, provide your version of
+   Savelog.java in your own project, and make calls to it from 
+   “src-pdf/pdf/main/SavelogPDF.java”. A sample of Savelog.java is found in 
+   the sample application.
+   If you want to use the default Log messages instead, then uncomment them in
+   SavelogPDF.java.
+4. Use “src-pdf/pdf/main/Renderer.java” as needed.
+
+
+Known bugs:
+===========
+
+1. The PDFParser in the library. is incomplete.
+2. Colorspace needs work. Most colored objects are not properly handled.
+
+
